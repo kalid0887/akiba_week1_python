@@ -75,14 +75,14 @@ The Student Profile System is the final mini-project for Week 1. It combines the
               AKIBA STUDENT PROFILE
 ================================================
 
-Name:                 Ahmed Ali
+Name:                 Kalid Behredin
 Student ID:           AKB-001
 Age:                  21
 City:                 Addis Ababa
 University:           Jimma University
 Department:           Software Engineering
-Email:                ahmed@example.com
-Phone:                0912345678
+Email:                kalidm441@gmail.com
+Phone:                0908******
 Favorite Language:    Python
 
 Programming Goal:
@@ -119,7 +119,7 @@ python3 --version
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/kalid0887/akiba-week1-python.git
+git clone https://github.com/kalid0887/akiba_week1_python.git
 ```
 
 ### 2. Enter the project directory
@@ -193,17 +193,6 @@ Most importantly, I learned that programming is not just about writing code; it 
 * [x] Practice version control using Git.
 * [x] Prepare to explain the logic behind each program.
 
----
-
-## 🔮 What's Next?
-
-Week 1 has established my foundation in Python programming. In the coming weeks, I aim to build on these fundamentals by learning more advanced programming concepts, improving my problem-solving ability, and developing increasingly practical software projects.
-
-My long-term goal is to become a professional software engineer specializing in backend development, artificial intelligence, and AI-integrated applications.
-
-I believe consistent practice, curiosity, and a willingness to solve challenging problems are essential to that journey.
-
----
 
 ## 🙏 Acknowledgment
 
